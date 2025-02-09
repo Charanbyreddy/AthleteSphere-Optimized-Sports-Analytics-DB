@@ -1,0 +1,33 @@
+# ==========================================
+# AthleteSphere - Sports Analytics Project
+# Python Dependencies for Data Analysis, Visualization, 
+# Machine Learning, and Database Management
+# ==========================================
+
+# Data Manipulation & Numerical Operations
+pandas==1.5.3        # Data analysis and manipulation tool
+numpy==1.24.2        # Fundamental package for numerical computations
+
+# Data Visualization
+matplotlib==3.7.1    # Plotting library for creating static, animated, and interactive visualizations
+seaborn==0.12.2      # Statistical data visualization based on matplotlib
+plotly==5.14.1       # Interactive visualizations for dashboards and data storytelling
+
+# Machine Learning & Predictive Modeling
+scikit-learn==1.2.2  # Tools for predictive data analysis and machine learning algorithms
+
+# Database Connectivity
+psycopg2-binary==2.9.6  # PostgreSQL database adapter for Python
+sqlalchemy==2.0.15      # SQL toolkit and Object-Relational Mapping (ORM) for advanced database management
+
+# Jupyter Notebooks
+jupyter==1.0.0        # Jupyter notebook for interactive data analysis
+notebook==6.5.4       # Web-based notebook environment for data exploration
+
+# Utilities & Enhancements
+tqdm==4.65.0          # Progress bar for loops and iterable processing
+
+# ==========================================
+# Install these dependencies using:
+# pip install -r requirements.txt
+# ==========================================
